@@ -4,7 +4,7 @@ Nine cognitive lenses, three functional roles, and an ensemble architecture for 
 
 Most people customize what their AI knows. This project customizes **how it thinks** — structural constraints that change reasoning patterns, not just surface vocabulary.
 
-**Blog post:** [I Taught My AI Nine Different Ways to Think](https://rodspeed.ai/blog/cognitive-architecture.html)
+**Blog post:** [Cognitive Lenses for Claude Code](https://rodspeed.ai/blog/cognitive-architecture.html)
 
 ## What's in here
 
