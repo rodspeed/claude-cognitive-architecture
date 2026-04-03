@@ -1,7 +1,7 @@
 ---
 name: synthesizer
 type: role
-description: Reads multiple agent outputs and produces unified analysis — blind spots, divergences, consensus
+description: "Reads multiple agent outputs and produces unified analysis — blind spots, divergences, consensus"
 tools: none
 ---
 

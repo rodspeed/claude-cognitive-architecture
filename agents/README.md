@@ -22,7 +22,7 @@ own tool requirements and output structure.
 name: agent-name
 type: lens | role
 description: one-line purpose
-tools: Read, Grep  # roles only — what tools the agent needs
+tools: "Read, Grep  # roles only — what tools the agent needs"
 ---
 
 [body: constraint text for lenses, full prompt template for roles]

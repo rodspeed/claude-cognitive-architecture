@@ -1,6 +1,6 @@
 ---
 name: scrutinize
-description: Adversarial architecture review — spawns a fresh-context agent to critique a plan, architecture doc, or proposal, then facilitates a structured dialogue between advocate and critic. Use when you need a red team for any document.
+description: "Adversarial architecture review — spawns a fresh-context agent to critique a plan, architecture doc, or proposal, then facilitates a structured dialogue between advocate and critic. Use when you need a red team for any document."
 argument-hint: ['file path to review', 'optional: number of dialogue rounds (default 2)']
 allowed-tools: Read, Glob, Grep, Agent, Bash
 ---

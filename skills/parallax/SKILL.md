@@ -1,8 +1,8 @@
 ---
 name: parallax
-description: Multi-lens analysis — runs a query through 3 cognitively diverse agents in parallel, then synthesizes blind spots, divergences, and consensus. Use when you want to triangulate a question, review code from multiple angles, or stress-test a decision.
+description: "Multi-lens analysis — runs a query through 3 cognitively diverse agents in parallel, then synthesizes blind spots, divergences, and consensus. Use when you want to triangulate a question, review code from multiple angles, or stress-test a decision."
 user_invocable: true
-arguments: query — the question, review request, or decision to analyze; optional flags: --profile [debug|code-review|architecture|decision|writing], --lenses [comma-separated lens names], --diverge — decision mode, --verbose — show individual lens outputs, -f [file path]
+arguments: "query — the question, review request, or decision to analyze; optional flags: --profile [debug|code-review|architecture|decision|writing], --lenses [comma-separated lens names], --diverge — decision mode, --verbose — show individual lens outputs, -f [file path]"
 ---
 
 # Parallax — Multi-Lens Analysis

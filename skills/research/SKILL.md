@@ -1,8 +1,8 @@
 ---
 name: research
-description: Parallel deep research — decomposes a question into facets, spawns researcher agents simultaneously, synthesizes findings. Composable with lenses.
+description: "Parallel deep research — decomposes a question into facets, spawns researcher agents simultaneously, synthesizes findings. Composable with lenses."
 user_invocable: true
-arguments: question — the research question; optional flags: --facets "a,b,c" — override auto-decomposition, --lens [lens name] — apply cognitive constraint to all researchers, --verbose — show individual researcher outputs, -f [file path] — include file as context
+arguments: "question — the research question; optional flags: --facets "a,b,c" — override auto-decomposition, --lens [lens name] — apply cognitive constraint to all researchers, --verbose — show individual researcher outputs, -f [file path] — include file as context"
 allowed-tools: Read, Glob, Grep, Agent, WebSearch, WebFetch
 ---
 

@@ -1,8 +1,8 @@
 ---
 name: orient
-description: Chief of staff — reads the full cognitive toolkit (skills, agents, lenses, native tools), understands their wiring and interactions, and recommends a deployment strategy for any problem. Does not execute — orients.
+description: "Chief of staff — reads the full cognitive toolkit (skills, agents, lenses, native tools), understands their wiring and interactions, and recommends a deployment strategy for any problem. Does not execute — orients."
 user_invocable: true
-arguments: problem — the question, task, or situation you need to approach; optional: --verbose — show full toolkit inventory before recommendation
+arguments: "problem — the question, task, or situation you need to approach; optional: --verbose — show full toolkit inventory before recommendation"
 allowed-tools: Read, Glob, Grep
 ---
 

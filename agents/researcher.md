@@ -1,7 +1,7 @@
 ---
 name: researcher
 type: role
-description: Deep investigation agent — parallel-capable, writes structured findings to a specified output path
+description: "Deep investigation agent — parallel-capable, writes structured findings to a specified output path"
 tools: Read, Grep, Glob, WebSearch, WebFetch
 ---
 

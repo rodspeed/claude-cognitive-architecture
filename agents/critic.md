@@ -1,7 +1,7 @@
 ---
 name: critic
 type: role
-description: Fresh-context adversarial reviewer — reads artifacts cold, verifies claims against codebase, structured critique
+description: "Fresh-context adversarial reviewer — reads artifacts cold, verifies claims against codebase, structured critique"
 tools: Read, Grep, Glob
 ---
 
